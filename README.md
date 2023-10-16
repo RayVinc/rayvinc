@@ -6,7 +6,7 @@
 Adaptable professional with a diverse skill set encompassing hardware and software engineering, artificial intelligence, business intelligence, and a track record of excelling in management roles. My journey from mechatronics to business informatics has forged a unique perspective, allowing me to approach complex problems with a blend of technical insight and strategic thinking. I thrive in environments that demand innovation and the ability to navigate both technical and managerial challenges. I excel in bridging the gap between complex technical concepts and strategic decision-making, and I am now excited to pivot towards a more hands-on development role where I can apply my technical expertise to innovate and create solutions that make a tangible impact.
 
 #
--  I've recently finished a project to differentiate pictures of real faces from AI generated ones: [Fake Face Detection](https://fakefacedetection.streamlit.app/)
+-  I've recently finished a project to differentiate pictures of real faces from AI generated ones
 -  I am currently working on a tool that functions as a personal assistant to manage subscription services, remind you of cancelation deadlines and suggests subscriptions with better prices or more widespread content.
 
 ### 🛠 Languages and Tools
